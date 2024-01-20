@@ -20,7 +20,7 @@ const highScore : number | boolean = 5;
 
 // Kodu buraya yazalım...
 
-const stuff: string[] | number[]=[]
+let stuff: string[] | number[]=[]
 
 
 // **********************************************
